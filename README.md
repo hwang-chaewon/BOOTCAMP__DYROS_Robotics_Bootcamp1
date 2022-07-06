@@ -2,8 +2,7 @@
 [DYROS bootcamp1]
 Linux system(to use ROS), ROS(Robot Operating System), Robot simulation
 
-\n
-\n
+---------------------------------------
 -Linux 기본 및 Filesystem 강의
 
 -Cross-Compiler CMake 강의
@@ -19,6 +18,7 @@ Linux system(to use ROS), ROS(Robot Operating System), Robot simulation
 -CoppeliaSim과 ROS 연동
 
 -Moveit!을 통한 ROS 내 로봇 머니퓰레이션 실습
+--------------------------------------
 
 #DAY1
 CMake Tutorial
