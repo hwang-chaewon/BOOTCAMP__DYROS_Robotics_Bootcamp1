@@ -2,10 +2,8 @@
 [DYROS bootcamp1]
 Linux system(to use ROS), ROS(Robot Operating System), Robot simulation
 
-
-
-
-
+\n
+\n
 -Linux 기본 및 Filesystem 강의
 
 -Cross-Compiler CMake 강의
