@@ -1,6 +1,6 @@
 # DYROS_ROBOTICS_BOOTCAMP1
 --------------------------
-2022.07.04 - 2022.07.07
+[2022.07.04 - 2022.07.07]
 
 Linux system(to use ROS), ROS(Robot Operating System), Robot simulation
 
@@ -35,3 +35,11 @@ DAY1
   
 -----ROS Practice 2: Service Server & Client 만들기
 
+DAY2
+----
+
+-ROS
+
+-----ROS 명령어 실습
+
+-----ROS rosparam 실습
