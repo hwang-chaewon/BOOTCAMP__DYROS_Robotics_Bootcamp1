@@ -25,4 +25,7 @@ Linux system(to use ROS), ROS(Robot Operating System), Robot simulation
 #DAY1
 -----
 CMake Tutorial
+ROS 실습
+  -1. 간단한 Publisher & Subscriber 만들기
+  -2. Service Server & Client 만들기
 
