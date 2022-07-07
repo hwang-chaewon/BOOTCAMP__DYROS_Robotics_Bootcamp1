@@ -27,9 +27,9 @@ DAY1
 
 -CMake Tutorial
 
--ROS 실습
+-ROS
   
------1. 간단한 Publisher & Subscriber 만들기
+-----ROS Practice 1: 간단한 Publisher & Subscriber 만들기
   
------2. Service Server & Client 만들기
+-----ROS Practice 2: Service Server & Client 만들기
 
