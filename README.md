@@ -1,5 +1,7 @@
 # DYROS_ROBOTICS_BOOTCAMP1
 --------------------------
+2022.07.04 - 2022.07.07
+
 Linux system(to use ROS), ROS(Robot Operating System), Robot simulation
 
 ---------------------------------------
