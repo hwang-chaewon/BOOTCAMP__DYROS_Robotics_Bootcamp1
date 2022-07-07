@@ -22,7 +22,7 @@ Linux system(to use ROS), ROS(Robot Operating System), Robot simulation
 
 --------------------------------------
 
-#DAY1
+DAY1
 -----
 
 -CMake Tutorial
