@@ -35,6 +35,8 @@ DAY1
   
 -----ROS Practice 2: Service Server & Client 만들기
 
+--------------------------------------
+
 DAY2
 ----
 
